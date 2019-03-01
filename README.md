@@ -1,5 +1,5 @@
 # bug
-The code has a bug£ºafter executing hello.exe, it returns a changed background & foreground color. 
+The code has a bug :  after executing hello.exe, it returns a changed background & foreground color. 
 Somthing like this [screen ](picture/screencut-hello.PNG)
 # requirement
 After executing hello.exe, making it return the original background & foreground color. 
